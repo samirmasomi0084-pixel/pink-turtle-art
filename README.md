@@ -22,4 +22,3 @@ Here is the result of running the program:
 3. Run the script in your IDE or terminal:  
    ```bash
    python turtle_spiral.py
-   
